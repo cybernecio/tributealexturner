@@ -1,0 +1,66 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Alex turner</h1>
+      <p>The man who saved a billion lives</p>
+      <figure id="img-div">
+        <img
+          id="image"
+          src="https://urbana.com.py/wp-content/uploads/2023/01/alex-turner-arctic-monkeys.jpg"
+          alt="Dr. Norman Borlaug seen standing in Mexican wheat field with a group of biologists"
+        />
+        <figcaption id="img-caption">
+          Alex turner el musico que salva al rock de toda una generacion .
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">aca una linea de tiempo de sus ultimos 3 discos:</h3>
+        <ul>
+          <li><strong>2013</strong> - AM</li>
+          <li>
+            <strong>2018</strong> - - Tranquility base and hotel casino
+          </li>
+          <li>
+            <strong>2022</strong> - The car
+          </li>
+          </ul>
+          <blockquote
+          cite="http://news.rediff.com/report/2009/sep/14/pm-pays-tribute-to-father-of-green-revolution-borlaug.htm"
+        >
+          <p>
+            "you are the first day of the spring with a septum piercing"
+          </p>
+          <cite>-- sweet dreams teanesse</cite>
+        </blockquote>
+        <h3>
+          If you have time, you should read more about this incredible human
+          being on his
+          <a
+            id="tribute-link"
+            href="https://es.wikipedia.org/wiki/Alex_Turner"
+            target="_blank"
+            >Wikipedia entry</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+img { max-width: 100%;
+max-height: auto;
+display: block; }
+
+
+** end of undefined **
+
